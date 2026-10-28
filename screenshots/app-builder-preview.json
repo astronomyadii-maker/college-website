@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Indira Gandhi Engineering College, Sagar",
+      "hasCanvas": false,
+      "bodyTextLen": 4980,
+      "bodyTextHash": "58ab75da4cfb842bad2f2d3d19758d8e8942746ad84ec467d3ad96a03605fac9",
+      "bodyTextPrefix": "Government of Madhya Pradesh · Established 1981 · AICTE · RGPV B",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Indira Gandhi Engineering College, Sagar",
+      "hasCanvas": false,
+      "bodyTextLen": 4883,
+      "bodyTextHash": "d656a33c9618a6c1984612c3bb93c9e27063f51408da1a47a7acb3c0e7996007",
+      "bodyTextPrefix": "Government of Madhya Pradesh · Established 1981 · AICTE · RGPV B",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
